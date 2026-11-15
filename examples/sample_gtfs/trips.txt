@@ -1,0 +1,4 @@
+trip_id,route_id,service_id
+T100,R1,WEEKDAY
+T200,R1,ALLWEEK
+T300,R1,ALLWEEK
